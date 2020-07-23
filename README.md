@@ -11,7 +11,7 @@
     <font size="7"><p>����Ӧp��[�JCryptoTab�����q��C�O?</p></font>
     <ol>
       <li><p>�U��<a href="https://cryptotabbrowser.com/14339013">CryptoTab�x�����</p></a>
-<p><img src="C:\Users\user\Desktop\�q������\1.jpg" alt="My test image"></p></li>
+<p><img src="1.jpg" alt="My test image"></p></li>
       <li><p>�n�JGoogle�b��</p>
 <p><img src="C:\Users\user\Desktop\�q������\2.jpg" alt="My test image"></p></li>
        <li><p>�I���k�W�������q����</p>
