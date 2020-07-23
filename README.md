@@ -6,7 +6,7 @@
     <link rel="Shortcut Icon" type="image/x-icon" href="C:\Users\user\Desktop\�q������\favicon.ico"/>
 </head>
 <h1><p align="center"><font color="#444444">�i���q���ȡjCryptoTab-�}�ҳQ�ʦ��J�����q�s����!! �������������d���q</font></p></h1>
-  <body background="C:\Users\user\Desktop\�q������\963.jpg" alt="�I���ϥ�"><font size="6">  <p>���ѭn�Ӥ��гo�@�ӧK�O���q���s�����СyCryptoTab�z</p>
+  <body background="963.jpg" alt="�I���ϥ�"><font size="6">  <p>���ѭn�Ӥ��гo�@�ӧK�O���q���s�����СyCryptoTab�z</p>
   <p>CryptoTab�O�@���j�������q���q�A���n�U���L�̪��s�����N��[�J�L�̪����q��~�ACryptoTab���B�@��z��²��A<br>�ڭ̪��q���N���O�@���q�u�A�ɬy�q��CryptoTab�����q���L�̫��q���q���h�A�L�]�|���e�@�Ǥ�S�����ڭ̡A�o�u���O�D�`���d�����q��k�A���Φۤv���q�|�A���Φۤv���q���A<br>���e�����չL��L�ؤ����d�����q��k�A�R�F��T�U����ܥd�U�h���A���G���^�Ӫ���S�������Ψ���T�U�A�ڬO�H�L�ӤH�����׸�j�a���o��ƪ�!!<br>�ӥBCryptoTab�ϥΰ_�Ӹ�Google�����@�˨S�����󪺮t���A�p�G�ݤ����^��]�i�H���k�䪺½Ķ�A�ާ@�_�ӫD�`��²��A<br>��۹q�����L����24�p�ɡA��������10�������k���q���𮧤@�U�A�ù����ۡA�q�O�]���|�ܶQ�C</p>
     <font size="7"><p>����Ӧp��[�JCryptoTab�����q��C�O?</p></font>
     <ol>
